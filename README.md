@@ -1,4 +1,4 @@
-# Pandas-challenge
+# Pandas-School-Analysis
 In this project, I created several data frames analyzing data collected for public and charter schools. First, I summarized the data of the entire district, then by school, with the top and bottom performing schools following. Math scores and reading scores were then summarized on their own. Lastly, scores were grouped by spending, school size and type. I included some observations about the data at the top of my notebook and also below. 
 
 Data Observations: 
